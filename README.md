@@ -1,0 +1,1 @@
+smallJPG is a lightweight Java-based image compression tool that reduces JPG file sizes without noticeable quality loss. It features fast processing, adjustable compression levels, and a simple interface, making it ideal for developers, students, and anyone needing quick, efficient image optimization.
